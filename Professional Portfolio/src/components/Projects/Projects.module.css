@@ -14,6 +14,13 @@
     text-transform: uppercase;
 }
 
+h2 span {
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+
 .projects {
     margin-top: 37px;
     display: flex;
