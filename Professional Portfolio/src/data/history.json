@@ -1,26 +1,42 @@
 [
   {
-    "role": "Software Engineer",
-    "organization": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on maps", "Reduced load"],
+    "role": "Data Analytics",
+    "organization": "Oklahoma Baptist University",
+    "startDate": "Spring 2023",
+    "endDate": "",
+    "experiences": ["Worked with Jupyter Notebook", "Manipulated/Cleaned data to find meaningful connections using many Python libraries", "For my class project I used data provided from Baseball Savant in order to determine the 'Best Pitch in Baseball'"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "Software Engineer",
-    "organization": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on maps", "Reduced load"],
+    "role": "Web Development",
+    "organization": "Oklahoma Baptist University",
+    "startDate": "Fall, 2023",
+    "endDate": "",
+    "experiences": ["JavaScript", "Teamwork", "Learned how to collaborate with multiple programmers to deliver a quality project on time to a customer" , "CI/CD", "Agile Principles"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "Software Engineer",
-    "organization": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on maps", "Reduced load"],
+    "role": "Intro to Programming with C++",
+    "organization": "Murray State College",
+    "startDate": "Fall 2021",
+    "endDate": "",
+    "experiences": ["Introduced to C++", "Mastered the art of turning perfectly good RAM into a memory leak"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Progamming II",
+    "organization": "Lovejoy High School",
+    "startDate": "Fall 2017",
+    "endDate": "",
+    "experiences": ["First introduced to Java and OOP"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Progamming I",
+    "organization": "Lovejoy High School",
+    "startDate": "Fall 2016",
+    "endDate": "",
+    "experiences": ["First introduced to programming", "Immediately fell in love with programming", "Introduced to how programmers think", "Learned the greatest programming language of all time SCRATCH!"],
     "imageSrc": "history/google.png"
   }
 ]
