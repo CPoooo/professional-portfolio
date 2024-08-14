@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "this is a project description",
+    "skills": ["React", "Html", "Quantam Computing on mars"],
+    "demo": "https://www.google.com",
+    "source": "https://github.com/CPoooo"
+  },
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "this is a project description",
+    "skills": ["React", "Html", "Quantam Computing on mars"],
+    "demo": "https://www.google.com",
+    "source": "https://github.com/CPoooo"
+  },
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "this is a project description",
+    "skills": ["React", "Html", "Quantam Computing on mars"],
+    "demo": "https://www.google.com",
+    "source": "https://github.com/CPoooo"
+  }
+]
