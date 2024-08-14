@@ -5,7 +5,7 @@
     "description": "Classic Tic Tac Toe game built with PyGame and the unbeatable AI is created using the MiniMax Algorithm",
     "skills": ["Python", "PyGame", "Machine Learning"],
     "demo": "https://www.google.com",
-    "source": "https://github.com/CPoooo"
+    "source": "https://github.com/CPoooo/tic-tac-toe-minimax-ai-game"
   },
   {
     "title": "Space Invaders Clone",
@@ -13,7 +13,7 @@
     "description": "The classic game of Space Invaders built entirely with vanilla JS, HTML, and CSS",
     "skills": ["JavaScript", "HTML", "CSS"],
     "demo": "https://www.google.com",
-    "source": "https://github.com/CPoooo"
+    "source": "https://github.com/CPoooo/Space-Invaders-Clone"
   },
   {
     "title": "Spotify Scraper",
@@ -21,7 +21,7 @@
     "description": "A personal Spotify scraper that will scrape the Billboard Top 100 for a date given and create a playlist in my own Spotify Account using Spotify's API",
     "skills": ["Python", "REST APIs", "Selenium"],
     "demo": "https://www.google.com",
-    "source": "https://github.com/CPoooo"
+    "source": "https://github.com/CPoooo/billboard-100-scraper-and-spotify-playlist-creator"
   }, 
   {
     "title": "Snake Game",
@@ -29,6 +29,6 @@
     "description": "Snake Game built using Python and PyGame",
     "skills": ["Python", "PyGame"],
     "demo": "https://www.google.com",
-    "source": "https://github.com/CPoooo"
+    "source": "https://github.com/CPoooo/snake-game"
   }
 ]
