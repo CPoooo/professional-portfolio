@@ -1,25 +1,33 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "this is a project description",
-    "skills": ["React", "Html", "Quantam Computing on mars"],
+    "title": "Tic Tac Toe AI",
+    "imageSrc": "projects/tictactoeAI.png",
+    "description": "Classic Tic Tac Toe game built with PyGame and the unbeatable AI is created using the MiniMax Algorithm",
+    "skills": ["Python", "PyGame", "Machine Learning"],
     "demo": "https://www.google.com",
     "source": "https://github.com/CPoooo"
   },
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "this is a project description",
-    "skills": ["React", "Html", "Quantam Computing on mars"],
+    "title": "Space Invaders Clone",
+    "imageSrc": "projects/spaceInavders.png",
+    "description": "The classic game of Space Invaders built entirely with vanilla JS, HTML, and CSS",
+    "skills": ["JavaScript", "HTML", "CSS"],
     "demo": "https://www.google.com",
     "source": "https://github.com/CPoooo"
   },
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "this is a project description",
-    "skills": ["React", "Html", "Quantam Computing on mars"],
+    "title": "Spotify Scraper",
+    "imageSrc": "projects/spotifyScraper.png",
+    "description": "A personal Spotify scraper that will scrape the Billboard Top 100 for a date given and create a playlist in my own Spotify Account using Spotify's API",
+    "skills": ["Python", "REST APIs", "Selenium"],
+    "demo": "https://www.google.com",
+    "source": "https://github.com/CPoooo"
+  }, 
+  {
+    "title": "Snake Game",
+    "imageSrc": "projects/snakeGame.png",
+    "description": "Snake Game built using Python and PyGame",
+    "skills": ["Python", "PyGame"],
     "demo": "https://www.google.com",
     "source": "https://github.com/CPoooo"
   }
