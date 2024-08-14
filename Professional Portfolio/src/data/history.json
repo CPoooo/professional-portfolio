@@ -16,6 +16,14 @@
     "imageSrc": "history/obu.png"
   },
   {
+    "role": "Python Programming",
+    "organization": "McNeese State University",
+    "startDate": "Fall 2022",
+    "endDate": "",
+    "experiences": ["Delved deeper into Python Programming"],
+    "imageSrc": "history/mcneese.png"
+  },
+  {
     "role": "Intro to Programming with C++",
     "organization": "Murray State College",
     "startDate": "Fall 2021",
