@@ -5,7 +5,7 @@
     "startDate": "Spring 2023",
     "endDate": "",
     "experiences": ["Worked with Jupyter Notebook", "Manipulated/Cleaned data to find meaningful connections using many Python libraries", "For my class project I used data provided from Baseball Savant in order to determine the 'Best Pitch in Baseball'"],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/obu.png"
   },
   {
     "role": "Web Development",
@@ -13,7 +13,7 @@
     "startDate": "Fall, 2023",
     "endDate": "",
     "experiences": ["JavaScript", "Teamwork", "Learned how to collaborate with multiple programmers to deliver a quality project on time to a customer" , "CI/CD", "Agile Principles"],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/obu.png"
   },
   {
     "role": "Intro to Programming with C++",
@@ -21,7 +21,7 @@
     "startDate": "Fall 2021",
     "endDate": "",
     "experiences": ["Introduced to C++", "Mastered the art of turning perfectly good RAM into a memory leak"],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/msc.png"
   },
   {
     "role": "Progamming II",
@@ -29,7 +29,7 @@
     "startDate": "Fall 2017",
     "endDate": "",
     "experiences": ["First introduced to Java and OOP"],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/ljhs.png"
   },
   {
     "role": "Progamming I",
