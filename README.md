@@ -37,7 +37,7 @@ To get a local copy of the source code, follow these steps:
 ## Live Demo
 
 You can see a live demo of the portfolio here:
-https://66be4ba2d0dc7021ded12a89--shiny-biscochitos-478197.netlify.app/
+https://cameronpool.netlify.app/
 
 ## Features
 
