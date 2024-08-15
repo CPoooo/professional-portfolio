@@ -7,9 +7,13 @@ export const About = () => {
     <section className={styles.container} id='about'>
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
-        <img
-          src={getImageUrl("about/Headshot.jpg")}
-          alt="me sitting with a laptop"
+        <video
+          src={getImageUrl("throwing/Side view throw.mp4")}
+          alt="me throwing"
+          autoPlay
+          loop
+          muted
+          playsInline
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
