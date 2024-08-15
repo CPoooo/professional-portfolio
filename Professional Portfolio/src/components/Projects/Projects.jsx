@@ -13,6 +13,7 @@ export const Projects = () => {
           still available)
         </span>
       </h2>
+      <h2>More Projects also available <a href="https://github.com/CPoooo">here </a>on my <a href="https://github.com/CPoooo">GitHub</a></h2>
       <div className={styles.projects}>
         {projects.map((project, id) => {
           return <ProjectCard key={id} project={project} />;

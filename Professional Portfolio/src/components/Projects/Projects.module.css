@@ -21,6 +21,22 @@ h2 span {
     text-transform: uppercase;
 }
 
+h2 {
+    text-transform: uppercase;
+}
+
+h2 a {
+    color: var(--color-text);
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+h2 a:hover{
+    color: #576cbc;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
 .projects {
     margin-top: 37px;
     display: flex;
