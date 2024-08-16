@@ -8,6 +8,7 @@ import { Contact } from './components/Contact/Contact'
 
 function App() {
   return <div className={styles.App}>
+    test
     <Navbar />
     <Hero />
     <About />
