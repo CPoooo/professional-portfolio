@@ -22,8 +22,7 @@ export const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        {/* will need to update demo link from rick roll to real link */}
-        <a className={styles.link} href={'https://www.youtube.com/watch?v=dQw4w9WgXcQ'}>
+        <a className={styles.link} href={demo}>
           Demo
         </a>
         <a className={styles.link} href={source}>

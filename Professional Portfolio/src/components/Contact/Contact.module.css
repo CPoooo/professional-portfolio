@@ -67,7 +67,28 @@
     align-items: center;
   }
 
+  .text p {
+    text-align: center;
+  }
+
   .links {
     align-items: center;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 525px) {
+
+  .link a {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .text h2 {
+    font-size: 70px;
+  }
+
+  .text p {
+    text-align: center;
   }
 }
